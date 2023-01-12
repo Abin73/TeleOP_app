@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "932333203792",
+    "firebase_url": "https://lepton-teleop-57d6d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lepton-teleop-57d6d",
+    "storage_bucket": "lepton-teleop-57d6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932333203792:android:1d0174f165bf0602923c55",
+        "android_client_info": {
+          "package_name": "com.example.teleop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932333203792-cs40jlqkqtip5j83afqj4egqbjq89vf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3gyttCEGTGGM5ZniwRCZDk0HP6yzcdg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932333203792-cs40jlqkqtip5j83afqj4egqbjq89vf0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "932333203792-a48m80artl6rciavdm2q057cg9eiv4h9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.teleOp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
